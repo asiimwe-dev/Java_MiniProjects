@@ -1,2 +1,2 @@
 # Java_MiniProjects
-This includes Beginner Friendly Java Projects
+This repository conntains Beginner Friendly Java Projects.
